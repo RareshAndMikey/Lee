@@ -28,7 +28,7 @@ namespace Lee
         /// <summary>
         /// Entry point
         /// </summary>
-        /// <param name="args"></param>
+        /// <param name="args">Program arguments</param>
         static void Main(string[] args)
         {
             #region intro
