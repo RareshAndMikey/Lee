@@ -14,7 +14,7 @@ using System.Diagnostics;
  * Based on mikey's lolo.vbs
  * 
  * Description:
- *     Deactivates user input, opens a Notepad window, types text and queries a system restart
+ *     Plays troll song, opens a Notepad window, types text and queries a system restart
  *     
  * ~~ Please use this responsibly ~~
  * 
