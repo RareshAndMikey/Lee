@@ -11,5 +11,11 @@ Lee is joke program that does the following things, in order
 
 That's it
 
+## Why when I compile it, does it say it's the Windows 10 installer?
+Because it's made to look like it from the outside. You can change that if you want to.
+
 ## Can I make it more malitious?
 See the license for that.
+
+### Credits
+This project is based on Michael Whiting's (a friend at school) `lolo.vbs`. The difference is that while his code is long (every key was typed manually), mine takes advantage of `for` loops. And his original version opened up Chrome and looked up the song on YouTube.
