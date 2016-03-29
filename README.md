@@ -11,6 +11,11 @@ Lee is joke program that does the following things, in order
 
 That's it
 
+## CRAP! I'VE ACCIDENTALLY OPENED IT!!
+You idiot. OK, once the Notepad typing thing finished. Open a run window and run `shutdown -a` (which aborts the shutdown), and open a task manager and quit the process to stop the song.
+
+Or you could just let it run and when your computer restarts, everything will be back to normal.
+
 ## Can I make it more malitious?
 See the license for that.
 
