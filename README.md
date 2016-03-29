@@ -11,9 +11,6 @@ Lee is joke program that does the following things, in order
 
 That's it
 
-## Why when I compile it, does it say it's the Windows 10 installer?
-Because it's made to look like it from the outside. You can change that if you want to.
-
 ## Can I make it more malitious?
 See the license for that.
 
