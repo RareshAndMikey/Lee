@@ -47,7 +47,7 @@ namespace Lee
 
             // Shutdown variables
             string shutdownmode = "r"; // Shutdown mode
-            int shutdowntime    = 120; // Time before shutdown
+            int shutdowntime    = 120; // Time before shutdown - in seconds
             int sdscaretime     = 15;  // Time for shutdown scare
 
             #endregion
