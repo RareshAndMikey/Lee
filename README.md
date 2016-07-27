@@ -11,6 +11,9 @@ Lee is joke program that does the following things, in order
 
 That's it
 
+## Known issues
+If you don't have enough priviledges, this program will NOT run properly. You need to have access to the `shutdown` command in `C:\Windows\System32\`.
+
 ## CRAP! I'VE ACCIDENTALLY OPENED IT!!
 You idiot. OK, once the Notepad typing thing finished. Open a run window and run `shutdown -a` (which aborts the shutdown), and open a task manager and quit the process to stop the song.
 
@@ -21,3 +24,6 @@ See the license for that.
 
 ### Credits
 This project is based on Michael Whiting's (a friend at school) `lolo.vbs`. The difference is that while his code is long (every key was typed manually), mine takes advantage of `for` loops. And his original version opened up Chrome and looked up the song on YouTube.
+
+### Future of this repo
+This program will not be updated as often as my other projects. It will have a port to OS X and UNIX sometime in the future, but it will take time as I have to figure out how to call AppleScript and POSIX from C# as well as the UI toolkits.
