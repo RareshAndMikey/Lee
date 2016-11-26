@@ -1,4 +1,4 @@
-# Lee
+# Lee [![Build Status](https://travis-ci.org/RareshAndMikey/Lee.svg?branch=master)](https://travis-ci.org/RareshAndMikey/Lee)
 Because a system restart doesn't need to be boring.
 
 ## What is it?
