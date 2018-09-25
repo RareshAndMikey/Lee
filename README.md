@@ -26,4 +26,4 @@ See the license for that.
 This project is based on Michael Whiting's (a friend at school) `lolo.vbs`. The difference is that while his code is long (every key was typed manually), mine takes advantage of `for` loops. And his original version opened up Chrome and looked up the song on YouTube.
 
 ### Future of this repo
-This program will not be updated as often as my other projects. It will have a port to OS X and UNIX sometime in the future, but it will take time as I have to figure out how to call AppleScript and POSIX from C# as well as the UI toolkits.
+This program will not updated.
